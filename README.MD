@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.koxx12-dev:imgui-java-lwjgl2:1.0.0")
+    implementation("com.github.koxx12-dev:ImGui-Java-Lwjgl2:1.0.0")
 }
 ```
 
